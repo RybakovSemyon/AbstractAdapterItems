@@ -1,3 +1,3 @@
 package semyon.rybakov.abstractadapteritems.adapter
 
-class BaseEvent
+abstract class BaseEvent(val type: Int)

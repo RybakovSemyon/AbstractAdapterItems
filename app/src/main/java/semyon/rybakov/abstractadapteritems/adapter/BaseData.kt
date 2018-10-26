@@ -1,4 +1,3 @@
 package semyon.rybakov.abstractadapteritems.adapter
 
-class BaseData {
-}
+abstract class BaseData(val type: Int)
